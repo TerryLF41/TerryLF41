@@ -1,6 +1,6 @@
 # Hi, I'm Terry
 
-Informatics graduate interested in software development.
+I'm an Informatics graduate interested in building software and backend systems. I enjoy working with APIs, application development, and learning how software systems work.
 
 ## About Me
 - 🎓 Informatics graduate
