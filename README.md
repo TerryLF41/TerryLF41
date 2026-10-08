@@ -9,4 +9,4 @@ I'm an Informatics graduate interested in building software and backend systems.
 - 📫 How to reach me: terrylouis2003@gmail.com
 
 ## Tech Stack
-Java · JavaScript · PHP · Go · MYSQL · PostgreSQL · Vue
+Java · JavaScript · PHP · Go · MYSQL · PostgreSQL · Vue · Python
