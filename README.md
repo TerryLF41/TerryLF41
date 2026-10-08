@@ -1,12 +1,28 @@
-# Hi, I'm Terry
+# Hi, I'm Terry 👋
 
-I'm an Informatics graduate interested in building software and backend systems. I enjoy working with APIs, application development, and learning how software systems work.
+I'm an Informatics graduate interested in **software development, full-stack development, and backend systems**. I enjoy building web applications, working with APIs and databases, and learning new technologies.
 
 ## About Me
-- 🎓 Informatics graduate
-- 💻 Interested in sofware development such as full stack development and Artificial Intelegence
-- 🌱 Currently learning Android Development and Artificial Intelegence
-- 📫 How to reach me: terrylouis2003@gmail.com
+
+* 🎓 Informatics graduate
+* 💻 Interested in software development, full-stack development, and backend engineering
+* 🤖 Interested in exploring Artificial Intelligence
+* 🌱 Currently learning Android Development and Artificial Intelligence
+* 📫 How to reach me: **[terrylouis2003@gmail.com](mailto:terrylouis2003@gmail.com)**
 
 ## Tech Stack
-Java · JavaScript · PHP · Go · MYSQL · PostgreSQL · Vue · Python
+
+**Languages:**
+Java · JavaScript · PHP · Go · Python
+
+**Frontend:**
+Vue.js · HTML · CSS
+
+**Backend:**
+Go · Laravel
+
+**Databases:**
+PostgreSQL · MySQL
+
+**Tools & Cloud:**
+Git · GitHub · AWS
